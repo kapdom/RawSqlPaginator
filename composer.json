@@ -1,0 +1,19 @@
+{
+    "name": "kapdom/raw-sql-paginator",
+    "description": "SQL raw query paginator - create pagination from raw query",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "doomkap",
+            "email": "kap.dominik@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "KapDom\\RawQueryPaginator\\": "src/"
+        }
+    },
+    "require": {}
+}
